@@ -1,3 +1,3 @@
 # Quotebase
 
-A quote generator that anyone can contribute to.
+A simple quote generator that anyone can contribute to.
